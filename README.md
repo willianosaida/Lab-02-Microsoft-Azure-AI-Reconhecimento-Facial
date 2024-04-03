@@ -1,0 +1,1 @@
+# Lab-02-Microsoft-Azure-AI-Reconhecimento-Facial
